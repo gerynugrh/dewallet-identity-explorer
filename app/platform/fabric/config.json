@@ -1,6 +1,6 @@
 {
 	"network-configs": {
-		"first-network": {
+		"dewallet": {
 			"name": "dewallet",
 			"profile": "./connection-profile/dewallet.json"
 		}
