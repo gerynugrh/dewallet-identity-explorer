@@ -6,9 +6,15 @@ const namespaces = 'auth';
 
 const LOGIN = `${namespaces}/LOGIN`;
 
-const LOGOUT = `${namespaces}/LOGOUT`;
+const NETWORK = `${namespaces}/NETWORK`;
+
+const ERROR = `${namespaces}/ERROR`;
+
+const REGISTER = `${namespaces}/REGISTER`;
 
 export default {
-  LOGIN,
-  LOGOUT
+	LOGIN,
+	ERROR,
+	NETWORK,
+	REGISTER
 };
